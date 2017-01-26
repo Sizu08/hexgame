@@ -42,6 +42,7 @@ public class Hexgame {
         hand.add(troop3);
         hand.add(troop4);
         hand.add(troop5);
+        //test
         
         return hand;
     }
